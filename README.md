@@ -10,4 +10,4 @@ Since it is open source, you can use XOS with peace of mind.
 ------------
 
 
-> Footnote: I haven't been providing support for the XOS project since November 2021. These ISOs are files that I have prepared completely in line with my own needs and that I have no shame in sharing them with you. Please don't contact me for support. Always have the original Windows 10 image file on a USB stick as a backup.
+> Footnote: I haven't been providing support for the XOS project since November 2021. These ISOs are files that I have prepared completely in line with my own needs and that I have sharing them with you. Please don't contact me for support. Always have the original Windows 10 image file on a USB stick as a backup.
