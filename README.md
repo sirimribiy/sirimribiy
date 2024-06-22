@@ -7,3 +7,5 @@ You can check XOS at https://discord.gg/XTYEjZNPgX.
 **Please check the functions and features that the project doesn't support before downloading.**
 
 ------------
+
+To book tweaking & overclocking sessions from me, you can join my tweaking server and book an appointment: https://discord.gg/9pUqY9kszX
